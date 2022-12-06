@@ -2,6 +2,7 @@
 
 * [👋 Introduction](README.md)
 * [🆘 Support](support.md)
+* [🛒 Products](products.md)
 
 ## Overview
 
