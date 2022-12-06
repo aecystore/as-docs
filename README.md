@@ -3,6 +3,7 @@ description: >-
   Welcome customers! AecyStore is an official store of FiveM and Tebex, which is
   dedicated to programming in a professional and clean way to provide
   programming services and more in exclusives cases.
+coverY: 0
 ---
 
 # 👋 Introduction
