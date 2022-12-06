@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
+* [🆘 Support](support.md)
 
 ## Overview
 
