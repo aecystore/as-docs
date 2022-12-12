@@ -1,10 +1,8 @@
 ---
 description: Stolen car from a stolen valet.
-cover: ../.gitbook/assets/1920x1080.png
-coverY: 264.633431085044
 ---
 
-# 🗓 as-valetrobbery
+# 🏎 as-valetrobbery
 
 See preview on [https://www.youtube.com/watch?v=0xTdpUZ0sG0](https://www.youtube.com/watch?v=0xTdpUZ0sG0)
 

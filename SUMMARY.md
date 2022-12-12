@@ -4,5 +4,4 @@
 
 ## Scripts
 
-* [🗓 as-valetrobbery](scripts/as-valetrobbery.md)
-* [✨ Our Features](scripts/our-features.md)
+* [🏎 as-valetrobbery](scripts/as-valetrobbery.md)
