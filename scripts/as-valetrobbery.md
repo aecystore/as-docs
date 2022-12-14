@@ -24,7 +24,7 @@ Extract the downloaded resource from [<mark style="color:purple;">https://keymas
 
 Add `ensure as-valetrobbery` to your server's configuration file **server.cfg**
 
-<pre data-title=""><code><strong>ensure as-valetrobbery
+<pre data-title="server.cfg" data-overflow="wrap" data-line-numbers><code><strong>ensure as-valetrobbery
 </strong></code></pre>
 
 {% hint style="info" %}
