@@ -4,4 +4,4 @@
 
 ## Scripts
 
-* [🏎 as-valetrobbery](scripts/as-valetrobbery.md)
+* [🏎 Valet Robbery](scripts/valet-robbery.md)
